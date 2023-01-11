@@ -1,0 +1,2 @@
+C:\Users\Mel_sensei\Desktop\CAPSTONE-AccountingSystem\AccountingSystem-Yuri-CAPSTONE\LoginForm\obj\Debug\AccountingSystem.csproj.AssemblyReference.cache
+C:\Users\Mel_sensei\Desktop\CAPSTONE-AccountingSystem\AccountingSystem-Yuri-CAPSTONE\LoginForm\obj\Debug\AccountingSystem.csproj.SuggestedBindingRedirects.cache
